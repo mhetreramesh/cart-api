@@ -323,51 +323,6 @@
     "width": 300,
     "price": 13.55,
     "rating": 2
-  }, {
-    "title": "Vegan",
-    "type": "vegan",
-    "description": "Concept of healthy vegan eating",
-    "filename": "36.jpg",
-    "height": 600,
-    "width": 398,
-    "price": 28.96,
-    "rating": 5
-  }, {
-    "title": "Fresh blueberries",
-    "type": "fruit",
-    "description": "Healthy breakfast. berry crumble with fresh blueberries, raspberries, strawberries, almond, walnuts, pecans, yogurt, and mint in ceramic plates over white wooden surface, top view",
-    "filename": "37.jpg",
-    "height": 450,
-    "width": 321,
-    "price": 21.01,
-    "rating": 4
-  }, {
-    "title": "Smashed avocado",
-    "type": "fruit",
-    "description": "Vegan sandwiches with smashed avocado, tomatoes and radish. top view",
-    "filename": "38.jpg",
-    "height": 450,
-    "width": 450,
-    "price": 25.88,
-    "rating": 0
-  }, {
-    "title": "Italian ciabatta",
-    "type": "bakery",
-    "description": "Italian ciabatta bread cut in slices on wooden chopping board with herbs, garlic and olives over dark grunge backdrop, top view",
-    "filename": "39.jpg",
-    "height": 450,
-    "width": 565,
-    "price": 15.18,
-    "rating": 1
-  }, {
-    "title": "Rustic breakfast",
-    "type": "dairy",
-    "description": "Rustic healthy breakfast set. cooked buckwheat groats with milk and honey on dark grunge backdrop. top view, copy space",
-    "filename": "40.jpg",
-    "height": 450,
-    "width": 307,
-    "price": 21.32,
-    "rating": 0
   }],
   "profile": {
     "name": "typicode"
